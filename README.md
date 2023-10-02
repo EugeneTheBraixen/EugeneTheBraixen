@@ -6,6 +6,9 @@
 
 
 -🤔 I’m looking for help with some programming tips that will help with projects
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=eugenethebraixen&theme=gruvbox" alt="eugenethebraixen" /></a>
 <!--
 **EugeneTheBraixen/EugeneTheBraixen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
