@@ -6,4 +6,8 @@
 I am 18 years old beginner. My repos are practice work for my college! But someday I will make real projects.
 <img src="https://github-profile-trophy.vercel.app/?username=eugenethebraixen&theme=onedark" alt="eugenethebraixen" /></a>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eugenethebraixen&show_icons=true&locale=en&layout=compact&theme=dark" alt="eugenethebraixen" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eugenethebraixen&show_icons=true&locale=en&theme=dark" alt="eugenethebraixen" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eugenethebraixen&theme=dark" alt="eugenethebraixen" /></p>
