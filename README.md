@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋 My name is Eugene!
+🌱 I’m currently learning Python, C#
+🤔 I’m looking for help with some programming tips that will help with projects
 <!--
 **EugeneTheBraixen/EugeneTheBraixen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
