@@ -4,6 +4,6 @@
 ### 🤔 I’m looking for help with some programming tips that will help with projects
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=eugenethebraixen&theme=gruvbox" alt="eugenethebraixen" /></a>
+<img src="https://github-profile-trophy.vercel.app/?username=eugenethebraixen&theme=onedark" alt="eugenethebraixen" /></a>
 
 
