@@ -4,7 +4,7 @@
 ### 🤔 I’m looking for help with some programming tips that will help with projects
 <img src="https://komarev.com/ghpvc/?username=eugenethebraixen&label=Profile%20views&color=FF0000&style=flat" alt="eugenethebraixen" />
 I am 18 years old beginner. My repos are practice work for my college! But someday I will make real projects.
-<img src="https://github-profile-trophy.vercel.app/?username=eugenethebraixen&theme=onedark" alt="eugenethebraixen" /></a>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eugenethebraixen&show_icons=true&locale=en&layout=compact&theme=dark" alt="eugenethebraixen" /></p>
 
